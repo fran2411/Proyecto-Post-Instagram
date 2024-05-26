@@ -8,7 +8,7 @@
     justify-content: space-between;
 }
 .html5 {
-    font-size: 30px;
+    font-size: 25px;
     width: 50px;
     height: 50px;
     display: flex;
@@ -17,14 +17,14 @@
     width: 100%;
 }
 .rigoberto h1 {
-    font-size: 24px;
+    font-size: 18px;
     margin: 0;
-    padding-left: 10px;
+    
 }
 .rigoberto p {
     font-size: 16px;
     margin: 0;
-    padding-left: 10px;
+
 }
 .hamburguesa{
     font-size: 24px;
